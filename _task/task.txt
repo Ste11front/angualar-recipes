@@ -1,0 +1,11 @@
+1-lista delle ricette da mostrare tramite card
+dettaglio in cui aggiungere delete (per rimuovere l'elemento)
+add con la form in cui mettere i campi e utilizzare come ricetta
+oltre delete in dettaglio un tasto con cui modificare le ricette
+
+lista delle ricette preferite
+
+2-sposta la selected in header e fai in modo che comunichi con la lista, la selected non deve esserci quando si entra nel dettaglio
+la filter la deve fare
+
+mockapi https://651a7af2340309952f0d5af6.mockapi.io/recipe

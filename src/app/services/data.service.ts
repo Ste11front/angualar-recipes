@@ -11,7 +11,7 @@ export class DataService {
   recipes = new BehaviorSubject<Recipe[]>([]);
   allRecipes: Recipe[] = [];
 
-  readonly DB_URL = "https://651a7a8d340309952f0d59b1.mockapi.io/recipe"
+  readonly DB_URL = "https://651a7af2340309952f0d5af6.mockapi.io/recipe"
 
   constructor(private http: HttpClient) {
     this.getAllRecipes()
